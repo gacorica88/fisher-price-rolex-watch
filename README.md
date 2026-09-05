@@ -2,7 +2,6 @@
 
 A client asked me to rebuild the exterior of a replica Rolex as if Fisher-Price had designed it.
 
-![Final Watch](images/final/watch-on-wrist.jpg)
 
 ## The Project
 
@@ -23,7 +22,6 @@ The new exterior had to:
 
 ## CAD and Iteration
 
-![CAD](images/cad/watch-cad.jpg)
 
 The design required multiple iterations, particularly around the bracelet links, mating interfaces, and fit around the original watch internals.
 
@@ -31,7 +29,6 @@ The bracelet became one of the most demanding parts of the project because small
 
 ## Prototyping
 
-![Prototype](images/iterations/prototype.jpg)
 
 Several versions were printed and tested before reaching the final geometry.
 
@@ -53,7 +50,6 @@ The printing process required attention to orientation, support strategy, fit, s
 
 ## Final Result
 
-![Final Watch](images/final/final-watch.jpg)
 
 The completed piece retained the original internal watch components while replacing the exterior with a fully redesigned, wearable, multicolor printed assembly.
 
