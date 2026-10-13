@@ -62,9 +62,10 @@ The completed piece retained the original internal watch components while replac
 
 ## Rendering Video
 
-[![Watch the demo video](<img width="707" height="724" alt="final rolex" src="https://github.com/user-attachments/assets/01aeb5a1-ebb6-4a89-bc7c-4699cbe8753c" />)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/shorts/e5fZQwrRiO8))
+[![Watch the rendering video](https://img.youtube.com/vi/e5fZQwrRiO8/hqdefault.jpg)](https://www.youtube.com/shorts/e5fZQwrRiO8)
 
-Click the image above to watch the rendering.
+Click the image above to watch the final demo.
+
 
 ## Skills Used
 
