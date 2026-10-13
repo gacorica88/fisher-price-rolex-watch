@@ -60,7 +60,11 @@ The printing process required attention to orientation, support strategy, fit, s
 
 The completed piece retained the original internal watch components while replacing the exterior with a fully redesigned, wearable, multicolor printed assembly.
 
-<img width="707" height="724" alt="final rolex" src="https://github.com/user-attachments/assets/129f1554-07f8-4433-b1d7-c52e2d213350" />
+## Rendering Video
+
+[![Watch the demo video](<img width="707" height="724" alt="final rolex" src="https://github.com/user-attachments/assets/01aeb5a1-ebb6-4a89-bc7c-4699cbe8753c" />)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/shorts/e5fZQwrRiO8))
+
+Click the image above to watch the rendering.
 
 ## Skills Used
 
