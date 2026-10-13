@@ -23,8 +23,11 @@ The new exterior had to:
 
 ## CAD and Iteration
 
-<img width="1359" height="1346" alt="final rolex render" src="https://github.com/user-attachments/assets/24c4d293-bba8-472c-8dae-02c02edae2c7" />
+### Rendering Video
 
+[![Watch the rendering video](https://img.youtube.com/vi/PYsrjX1trBk/hqdefault.jpg)](https://www.youtube.com/shorts/PYsrjX1trBk)
+
+Click the image above to watch the rendering.
 
 The design required multiple iterations, particularly around the bracelet links, mating interfaces, the crystal press fit, and fit around the original watch internals.
 
@@ -32,7 +35,7 @@ The bracelet became one of the most demanding parts of the project because small
 
 ## Prototyping
 
-<img width="3024" height="4032" alt="IMG_8150" src="https://github.com/user-attachments/assets/b88e1224-6be5-4537-80e6-e0be15ab01f1" />
+<img width="302" height="403" alt="IMG_8150" src="https://github.com/user-attachments/assets/b88e1224-6be5-4537-80e6-e0be15ab01f1" />
 
 
 Several versions were printed and tested before reaching the final geometry.
@@ -60,7 +63,7 @@ The printing process required attention to orientation, support strategy, fit, s
 
 The completed piece retained the original internal watch components while replacing the exterior with a fully redesigned, wearable, multicolor printed assembly.
 
-## Rendering Video
+### Demo Video
 
 [![Watch the rendering video](https://img.youtube.com/vi/e5fZQwrRiO8/hqdefault.jpg)](https://www.youtube.com/shorts/e5fZQwrRiO8)
 
